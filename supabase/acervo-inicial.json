@@ -1,0 +1,756 @@
+[
+ {
+  "code": "GM-0001",
+  "name": "Boina Francesa",
+  "slug": "boina-francesa-gm-0001",
+  "category": "acessorios",
+  "sizes": [
+   "M"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Boina_ Francesa_ Preta Tamanho M.png",
+  "w": 498,
+  "h": 500
+ },
+ {
+  "code": "GM-0002",
+  "name": "Boné Militar Vintage Distressed",
+  "slug": "bone-militar-vintage-distressed-gm-0002",
+  "category": "acessorios",
+  "sizes": [],
+  "colors": [],
+  "materials": [],
+  "file": "Boné Militar Vintage Distressed com Emblema B.png",
+  "w": 1254,
+  "h": 1254
+ },
+ {
+  "code": "GM-0003",
+  "name": "Boné com Estampa de Caveira",
+  "slug": "bone-com-estampa-de-caveira-gm-0003",
+  "category": "acessorios",
+  "sizes": [],
+  "colors": [],
+  "materials": [],
+  "file": "Boné Escuro com Estampa de Caveira.png",
+  "w": 1363,
+  "h": 1154
+ },
+ {
+  "code": "GM-0004",
+  "name": "Luva Invictus",
+  "slug": "luva-invictus-gm-0004",
+  "category": "acessorios",
+  "sizes": [
+   "M"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Luva_Preta_Invictus (Tamanho M).jpg",
+  "w": 800,
+  "h": 1006
+ },
+ {
+  "code": "GM-0005",
+  "name": "Luvas Táticas sem Dedos",
+  "slug": "luvas-taticas-sem-dedos-gm-0005",
+  "category": "acessorios",
+  "sizes": [],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Luvas Táticas Pretas Sem Dedos.png",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "code": "GM-0006",
+  "name": "Óculos Oakley",
+  "slug": "oculos-oakley-gm-0006",
+  "category": "acessorios",
+  "sizes": [],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Óculos_Preto_Oakley.png",
+  "w": 1201,
+  "h": 1201
+ },
+ {
+  "code": "GM-0007",
+  "name": "Bota Timberland",
+  "slug": "bota-timberland-gm-0007",
+  "category": "calcados",
+  "sizes": [
+   "43"
+  ],
+  "colors": [
+   "Bege"
+  ],
+  "materials": [],
+  "file": "Calçados_ Bota-Timberland (bege) Tamanho 43.JPG",
+  "w": 498,
+  "h": 401
+ },
+ {
+  "code": "GM-0008",
+  "name": "Tênis Adidas Adifom Superstar",
+  "slug": "tenis-adidas-adifom-superstar-gm-0008",
+  "category": "calcados",
+  "sizes": [
+   "43"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Calçados_ Tênis Adidas- Adifom superstar (preto) Tamanho 43.JPG",
+  "w": 447,
+  "h": 447
+ },
+ {
+  "code": "GM-0009",
+  "name": "Tênis Adidas Samba x Kader",
+  "slug": "tenis-adidas-samba-x-kader-gm-0009",
+  "category": "calcados",
+  "sizes": [
+   "43"
+  ],
+  "colors": [
+   "Marrom"
+  ],
+  "materials": [],
+  "file": "Calçados_ Tênis- Adidas Samba-Kader(marrom) Tamanho 43.JPG",
+  "w": 1000,
+  "h": 1334
+ },
+ {
+  "code": "GM-0010",
+  "name": "Tênis Diesel x Melissa",
+  "slug": "tenis-diesel-x-melissa-gm-0010",
+  "category": "calcados",
+  "sizes": [
+   "43"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Calçados_ Tênis-DIESEL_MELISSA(preto) Tamanho 43.JPG",
+  "w": 600,
+  "h": 800
+ },
+ {
+  "code": "GM-0011",
+  "name": "Tênis Jordan Heir Series",
+  "slug": "tenis-jordan-heir-series-gm-0011",
+  "category": "calcados",
+  "sizes": [
+   "43"
+  ],
+  "colors": [
+   "Branco"
+  ],
+  "materials": [],
+  "file": "Calçados_ Tênis Jordan Heir Séries(branco) Tamanho 43.png",
+  "w": 1000,
+  "h": 1000
+ },
+ {
+  "code": "GM-0012",
+  "name": "Tênis Puma Palermo Sonserina",
+  "slug": "tenis-puma-palermo-sonserina-gm-0012",
+  "category": "calcados",
+  "sizes": [
+   "43"
+  ],
+  "colors": [
+   "Verde"
+  ],
+  "materials": [],
+  "file": "Calçados_ Tênis-PUMA Palermo-Sonserina(Verde) Tamanho 43.JPG",
+  "w": 1600,
+  "h": 1600
+ },
+ {
+  "code": "GM-0013",
+  "name": "Conjunto Camisa e Calça",
+  "slug": "conjunto-camisa-e-calca-gm-0013",
+  "category": "conjuntos",
+  "sizes": [],
+  "colors": [
+   "Creme"
+  ],
+  "materials": [],
+  "file": "Conjunto de Camisa e Calça Creme.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0014",
+  "name": "Conjunto Manga Curta",
+  "slug": "conjunto-manga-curta-gm-0014",
+  "category": "conjuntos",
+  "sizes": [
+   "M"
+  ],
+  "colors": [
+   "Bege"
+  ],
+  "materials": [],
+  "file": "Conjunto_Manga curta(bege) Tamanho M.jpg",
+  "w": 1179,
+  "h": 1171
+ },
+ {
+  "code": "GM-0015",
+  "name": "Macacão",
+  "slug": "macacao-gm-0015",
+  "category": "conjuntos",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Macacão (preto) Tamanho M_G.png",
+  "w": 1086,
+  "h": 1448
+ },
+ {
+  "code": "GM-0016",
+  "name": "Casaco de Pele",
+  "slug": "casaco-de-pele-gm-0016",
+  "category": "externas",
+  "sizes": [],
+  "colors": [
+   "Vermelho"
+  ],
+  "materials": [
+   "Pele"
+  ],
+  "file": "Casaco de Pele Vermelho Luxuoso.png",
+  "w": 1145,
+  "h": 1374
+ },
+ {
+  "code": "GM-0017",
+  "name": "Jaqueta",
+  "slug": "jaqueta-gm-0017",
+  "category": "externas",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [
+   "Branco"
+  ],
+  "materials": [],
+  "file": "Jaqueta(branco). Tamanho M_G.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0018",
+  "name": "Jaqueta de Couro",
+  "slug": "jaqueta-de-couro-gm-0018",
+  "category": "externas",
+  "sizes": [
+   "G",
+   "GG"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Jaqueta_Couro_Preto - Tamanho G_GG.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0019",
+  "name": "Bermuda Cargo Camo Design.by.me",
+  "slug": "bermuda-cargo-camo-design-by-me-gm-0019",
+  "category": "inferior",
+  "sizes": [
+   "G"
+  ],
+  "colors": [
+   "Verde"
+  ],
+  "materials": [],
+  "file": "Bermuda_cargo_camo_desing.by.me(verde) Tamanho G.png",
+  "w": 1195,
+  "h": 1316
+ },
+ {
+  "code": "GM-0020",
+  "name": "Bermuda de Couro Design.by.me",
+  "slug": "bermuda-de-couro-design-by-me-gm-0020",
+  "category": "inferior",
+  "sizes": [],
+  "colors": [],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Bermuda_Couro_Desing.by.me",
+  "w": 1316,
+  "h": 1195
+ },
+ {
+  "code": "GM-0021",
+  "name": "Calça Cargo de Couro",
+  "slug": "calca-cargo-de-couro-gm-0021",
+  "category": "inferior",
+  "sizes": [],
+  "colors": [
+   "Marrom"
+  ],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Calça cargo de couro marrom.png",
+  "w": 1146,
+  "h": 1372
+ },
+ {
+  "code": "GM-0022",
+  "name": "Calça Jeans Customizada Chamas",
+  "slug": "calca-jeans-customizada-chamas-gm-0022",
+  "category": "inferior",
+  "sizes": [],
+  "colors": [],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Jeans Customizados com Chamas e Grafite.png",
+  "w": 1254,
+  "h": 1254
+ },
+ {
+  "code": "GM-0023",
+  "name": "Calça Jeans Design.by.me",
+  "slug": "calca-jeans-design-by-me-gm-0023",
+  "category": "inferior",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Calça_Jeans_Desing.by.me Tamanho M_G.png",
+  "w": 1086,
+  "h": 1448
+ },
+ {
+  "code": "GM-0024",
+  "name": "Calça Jeans Flare Design.by.me",
+  "slug": "calca-jeans-flare-design-by-me-gm-0024",
+  "category": "inferior",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Calça_Jeans_flare_desing.by.me - Tamanho M_G.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0025",
+  "name": "Calça Jeans Workwear",
+  "slug": "calca-jeans-workwear-gm-0025",
+  "category": "inferior",
+  "sizes": [
+   "G"
+  ],
+  "colors": [
+   "Vermelho"
+  ],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Calça_Jeans_workwear_ Vermelho_ Tamanho G.PNG",
+  "w": 1179,
+  "h": 1132
+ },
+ {
+  "code": "GM-0026",
+  "name": "Calça Pantalona Toile",
+  "slug": "calca-pantalona-toile-gm-0026",
+  "category": "inferior",
+  "sizes": [],
+  "colors": [
+   "Azul"
+  ],
+  "materials": [],
+  "file": "Calça Pantalona Estampada em Toile Azul.png",
+  "w": 1254,
+  "h": 1254
+ },
+ {
+  "code": "GM-0027",
+  "name": "Calça de Couro",
+  "slug": "calca-de-couro-gm-0027",
+  "category": "inferior",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [
+   "Branco"
+  ],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Calça de couro(branco) Tamanho M_G.jpg",
+  "w": 1179,
+  "h": 1270
+ },
+ {
+  "code": "GM-0028",
+  "name": "Calça de Couro Reta",
+  "slug": "calca-de-couro-reta-gm-0028",
+  "category": "inferior",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Calça_Couro_modelagem reta(preto) Tamanho M_G.PNG",
+  "w": 1179,
+  "h": 1118
+ },
+ {
+  "code": "GM-0029",
+  "name": "Jorts Jeans",
+  "slug": "jorts-jeans-gm-0029",
+  "category": "inferior",
+  "sizes": [
+   "G"
+  ],
+  "colors": [
+   "Azul escuro"
+  ],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Jorts_Jeans_Azul escuro - Tamanho G.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0030",
+  "name": "Blazer sem Manga",
+  "slug": "blazer-sem-manga-gm-0030",
+  "category": "superior",
+  "sizes": [
+   "M"
+  ],
+  "colors": [
+   "Marrom"
+  ],
+  "materials": [],
+  "file": "Blazer sem manga_Marrom - Tamanho M.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0031",
+  "name": "Blazer sem Manga",
+  "slug": "blazer-sem-manga-gm-0031",
+  "category": "superior",
+  "sizes": [
+   "M",
+   "G"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Blazer sem manga_Preto - Tamanho M_G.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0032",
+  "name": "Camisa Texturizada com Babados",
+  "slug": "camisa-texturizada-com-babados-gm-0032",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Camisa Preta Texturizada com Babados Verticais.png",
+  "w": 1196,
+  "h": 1315
+ },
+ {
+  "code": "GM-0033",
+  "name": "Camisa de Botões",
+  "slug": "camisa-de-botoes-gm-0033",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Cáqui"
+  ],
+  "materials": [],
+  "file": "Camisa Cáqui de Botões em Estúdio.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0034",
+  "name": "Camisa sem Mangas",
+  "slug": "camisa-sem-mangas-gm-0034",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Vermelho"
+  ],
+  "materials": [],
+  "file": "Camisa vermelha sem mangas em estúdio.png",
+  "w": 1197,
+  "h": 1315
+ },
+ {
+  "code": "GM-0035",
+  "name": "Camiseta Oversized com Tiras e Ilhós",
+  "slug": "camiseta-oversized-com-tiras-e-ilhos-gm-0035",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Vinho"
+  ],
+  "materials": [],
+  "file": "Camiseta oversized vinho com tiras e ilhós metálicos.png",
+  "w": 1254,
+  "h": 1254
+ },
+ {
+  "code": "GM-0036",
+  "name": "Colete Jeans",
+  "slug": "colete-jeans-gm-0036",
+  "category": "superior",
+  "sizes": [
+   "G"
+  ],
+  "colors": [],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Colete Jeans. Tamanho G.png",
+  "w": 1195,
+  "h": 1316
+ },
+ {
+  "code": "GM-0037",
+  "name": "Colete Jeans Personalizado",
+  "slug": "colete-jeans-personalizado-gm-0037",
+  "category": "superior",
+  "sizes": [
+   "P"
+  ],
+  "colors": [],
+  "materials": [
+   "Jeans"
+  ],
+  "file": "Colete jeans personalizado. Tamanho P.png",
+  "w": 1195,
+  "h": 1316
+ },
+ {
+  "code": "GM-0038",
+  "name": "Colete Social Risca de Giz",
+  "slug": "colete-social-risca-de-giz-gm-0038",
+  "category": "superior",
+  "sizes": [
+   "P"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [],
+  "file": "Colete social risca de giz(preto). - Tamanho P.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0039",
+  "name": "Colete Utilitário",
+  "slug": "colete-utilitario-gm-0039",
+  "category": "superior",
+  "sizes": [
+   "M"
+  ],
+  "colors": [
+   "Bege"
+  ],
+  "materials": [],
+  "file": "Colete utilitário(bege). - Tamanho M.png",
+  "w": 1195,
+  "h": 1316
+ },
+ {
+  "code": "GM-0040",
+  "name": "Colete de Couro",
+  "slug": "colete-de-couro-gm-0040",
+  "category": "superior",
+  "sizes": [
+   "G"
+  ],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Colete_Couro(preto).heic Tamanho G.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0041",
+  "name": "Colete de Couro Crocodilo",
+  "slug": "colete-de-couro-crocodilo-gm-0041",
+  "category": "superior",
+  "sizes": [],
+  "colors": [],
+  "materials": [
+   "Couro"
+  ],
+  "file": "Colete de Couro Crocodilo com Zíperes Prateados.png",
+  "w": 1145,
+  "h": 1374
+ },
+ {
+  "code": "GM-0042",
+  "name": "Colete de Pelo Leopardo",
+  "slug": "colete-de-pelo-leopardo-gm-0042",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Leopardo"
+  ],
+  "materials": [
+   "Pelo sintético"
+  ],
+  "file": "Colete de Pelo Sintético Leopardo.png",
+  "w": 1145,
+  "h": 1374
+ },
+ {
+  "code": "GM-0043",
+  "name": "Colete de Tricô",
+  "slug": "colete-de-trico-gm-0043",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [
+   "Tricô"
+  ],
+  "file": "Colete preto de tricô flutuante.png",
+  "w": 1122,
+  "h": 1402
+ },
+ {
+  "code": "GM-0044",
+  "name": "Colete de Tricô Decote V",
+  "slug": "colete-de-trico-decote-v-gm-0044",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Marfim"
+  ],
+  "materials": [
+   "Tricô"
+  ],
+  "file": "Colete de Tricô Marfim com Decote V.png",
+  "w": 1254,
+  "h": 1254
+ },
+ {
+  "code": "GM-0045",
+  "name": "Colete de Tricô Giardino",
+  "slug": "colete-de-trico-giardino-gm-0045",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Vinho"
+  ],
+  "materials": [
+   "Tricô"
+  ],
+  "file": "Colete de tricô vinho com etiqueta Giardino.png",
+  "w": 1144,
+  "h": 1375
+ },
+ {
+  "code": "GM-0046",
+  "name": "Regata Canelada",
+  "slug": "regata-canelada-gm-0046",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Preto"
+  ],
+  "materials": [
+   "Canelado"
+  ],
+  "file": "Regata preta canelada em estúdio.png",
+  "w": 1024,
+  "h": 1536
+ },
+ {
+  "code": "GM-0047",
+  "name": "Regata Esportiva Brasil PAVTROS",
+  "slug": "regata-esportiva-brasil-pavtros-gm-0047",
+  "category": "superior",
+  "sizes": [],
+  "colors": [
+   "Amarelo"
+  ],
+  "materials": [],
+  "file": "Regata Esportiva Amarela Brasil PAVTROS.png",
+  "w": 1194,
+  "h": 1317
+ },
+ {
+  "code": "GM-0048",
+  "name": "Camisa Dragão",
+  "slug": "camisa-dragao-gm-0048",
+  "category": "superior",
+  "sizes": [
+   "G"
+  ],
+  "colors": [],
+  "materials": [],
+  "file": "Imagem do ChatGPT 30 de out. de 2026, 22_34_27.png",
+  "w": 1197,
+  "h": 1314
+ }
+]
