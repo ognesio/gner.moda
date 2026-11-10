@@ -20,10 +20,8 @@
   to = "/index.html"
   status = 200
 
-[[headers]]
-  for = "/static/*"
-  [headers.values]
-    Cache-Control = "public, max-age=2592000"
+# /static/* usa o cache padrão do Netlify (o navegador confere se a foto mudou),
+# para que trocar uma imagem com o mesmo nome apareça na hora.
 
 [[headers]]
   for = "/assets/*"
